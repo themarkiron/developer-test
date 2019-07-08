@@ -19,7 +19,7 @@ http://localhost:8080/swagger-ui.html
 
 # How to Test API 
 
-* First you need to mass of data , so.
+* First you need data mass , so.
 
 <b>
 1-) Create bots 
