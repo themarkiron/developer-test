@@ -1,5 +1,4 @@
-# persistence-mongo-db-sample
-Project to share with all peoples how work with mongoDB
+# BOTS API 
 
 An API to sent messages and save in mongo DB 
 
