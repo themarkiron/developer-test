@@ -262,7 +262,7 @@ http://localhost:8080/swagger-ui.html
 </br>
 </br>
 
-# After to do this things , you need now run de second application to integrate with this 
+# After to do this things , you need now run the second application to integrate with this 
 
 * https://github.com/themarkiron/integration-developer-test
 
